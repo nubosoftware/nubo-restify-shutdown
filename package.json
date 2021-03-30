@@ -1,0 +1,52 @@
+{
+  "_from": "https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz",
+  "_id": "nubo-restify-shutdown@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ERMQxyS1trQIUW5VeWQoWNBq457LJrrXIHxGZ4pYb2mnOeLSAxwt9FsBkzENDeeRF82VwL1wXWEPstm96ZiRkQ==",
+  "_location": "/nubo-restify-shutdown",
+  "_nodeVersion": "4.4.5",
+  "_npmUser": {
+    "name": "yefim",
+    "email": "yafim.autenshlus@nubosoftware.com"
+  },
+  "_npmVersion": "2.15.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "nubo-restify-shutdown@https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz",
+    "name": "nubo-restify-shutdown",
+    "escapedName": "nubo-restify-shutdown",
+    "rawSpec": "https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz",
+    "saveSpec": "https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz",
+    "fetchSpec": "https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz",
+  "_shasum": "a269c863d68f2308a37f100ef28c2297fbbc2ce2",
+  "_spec": "nubo-restify-shutdown@https://na01.nubosoftware.com:4872/nubo-restify-shutdown/-/nubo-restify-shutdown-1.1.0.tgz",
+  "_where": "/mnt/diskB/N7/nubomanagement",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "dist": {
+    "shasum": "d1041aab5badabd30f732c85932df2cb74f53127",
+    "tarball": "https://na20.nubosoftware.com:4874/nubo-restify-shutdown/-/nubo-restify-shutdown-1.0.0.tgz"
+  },
+  "gitHead": "d4afdba90e690e5eda51be28612aa4422834e840",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yefim",
+      "email": "yafim.autenshlus@nubosoftware.com"
+    }
+  ],
+  "name": "nubo-restify-shutdown",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
